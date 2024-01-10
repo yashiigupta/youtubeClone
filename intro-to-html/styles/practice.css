@@ -1,0 +1,19 @@
+.heading  {
+  font-family: Montserrat;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 20px;
+  padding-bottom: 5px;
+}
+
+.description  {
+  font-family: Montserrat;
+  font-size: 17px;
+  padding-top: 0;
+  text-align: center;
+}
+
+.underline-span {
+  text-decoration: underline;
+}
